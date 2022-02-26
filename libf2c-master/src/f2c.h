@@ -7,7 +7,6 @@
 #ifndef F2C_INCLUDE
 #define F2C_INCLUDE
 
-
 #ifndef INTEGER_STAR_8
 #define INTEGER_STAR_8
 #endif

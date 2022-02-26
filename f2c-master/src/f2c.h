@@ -132,7 +132,9 @@ union Multitype {	/* for multiple entry points */
 	integer1 g;
 	shortint h;
 	integer i;
-	/* longint j; */
+#ifdef INTEGER_STAR_8
+	 longint j; 
+#endif
 	real r;
 	doublereal d;
 	complex c;
