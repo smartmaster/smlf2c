@@ -1,0 +1,9 @@
+#add macro in projects file
+INTEGER_STAR_8
+Allow_TYQUAD
+
+
+#add link static lib
+..\..\f2c\libf2c-master\bin\x64\Release
+..\..\f2c\libf2c-master\bin\x64\Debug
+libf2c.lib
